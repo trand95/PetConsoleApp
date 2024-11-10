@@ -1,0 +1,14 @@
+D:\dev\MicrosoftZertifikat\ChallengeProject\Starter\bin\Debug\net8.0\Starter.exe
+D:\dev\MicrosoftZertifikat\ChallengeProject\Starter\bin\Debug\net8.0\Starter.deps.json
+D:\dev\MicrosoftZertifikat\ChallengeProject\Starter\bin\Debug\net8.0\Starter.runtimeconfig.json
+D:\dev\MicrosoftZertifikat\ChallengeProject\Starter\bin\Debug\net8.0\Starter.dll
+D:\dev\MicrosoftZertifikat\ChallengeProject\Starter\bin\Debug\net8.0\Starter.pdb
+D:\dev\MicrosoftZertifikat\ChallengeProject\Starter\obj\Debug\net8.0\Starter.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\MicrosoftZertifikat\ChallengeProject\Starter\obj\Debug\net8.0\Starter.AssemblyInfoInputs.cache
+D:\dev\MicrosoftZertifikat\ChallengeProject\Starter\obj\Debug\net8.0\Starter.AssemblyInfo.cs
+D:\dev\MicrosoftZertifikat\ChallengeProject\Starter\obj\Debug\net8.0\Starter.csproj.CoreCompileInputs.cache
+D:\dev\MicrosoftZertifikat\ChallengeProject\Starter\obj\Debug\net8.0\Starter.dll
+D:\dev\MicrosoftZertifikat\ChallengeProject\Starter\obj\Debug\net8.0\refint\Starter.dll
+D:\dev\MicrosoftZertifikat\ChallengeProject\Starter\obj\Debug\net8.0\Starter.pdb
+D:\dev\MicrosoftZertifikat\ChallengeProject\Starter\obj\Debug\net8.0\Starter.genruntimeconfig.cache
+D:\dev\MicrosoftZertifikat\ChallengeProject\Starter\obj\Debug\net8.0\ref\Starter.dll
